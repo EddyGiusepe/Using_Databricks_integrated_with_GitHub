@@ -8,7 +8,8 @@ Neste script, vamos treinar um modelo de machine learning para prever se um
 cliente vai cancelar seu serviço de telecomunicações. Para isso, vamos usar o
 dataset Churn_Modelling.csv, que contém  informações sobre clientes de uma
 empresa de telecomunicações. Ademais, vamos a implementar um pipeline de
-machine learning para treinar o modelo.
+machine learning para treinar o modelo cujo algoritmo de machine learning é 
+o Gradient Boosting (GradientBoostingClassifier).
 
 RUN
 ---
